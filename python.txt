@@ -1,0 +1,5 @@
+sudo apt-get install build-essential libpq-dev libssl-dev libffi-dev python3.5-dev python3.5
+
+Add #!/usr/bin/python2 or /usr/bin/python3 depending on the targeted version to the top of the script.
+
+Use the following configuration for autopep8: -aa --max-line-length=110
