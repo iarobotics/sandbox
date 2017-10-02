@@ -1,0 +1,18 @@
+# Install using (Ubuntu):
+#   sudo -E -H pip3.5 install --upgrade -r requirements.txt
+#
+
+# TE essentials
+pyftpdlib
+pyyaml
+psycopg2
+
+# Development tools
+pylint
+autopep8
+pytest
+pytest-cov
+coverage
+
+# TSF
+cryptography
