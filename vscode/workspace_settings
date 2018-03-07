@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "git/scsc-t10-tizenrt-dev/fw/bluetooth/dev/src/csr/lr_wpan"
+        },
+        {
+            "path": "git/scsc-t10-tizenrt-dev/fw/bluetooth/interface/lr_wpan"
+        },
+        {
+            "path": "fly/test/tsf/bt"
+        },
+        {
+            "path": "git/t10/fw/bluetooth/dev/src/upper_stack/tools/omnicli_xml"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.exp": "tcl",
+            "lr_wpan_private.h": "c"
+        }
+    }
+}
