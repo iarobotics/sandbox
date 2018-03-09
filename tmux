@@ -15,4 +15,4 @@ tmux send-keys -t:.1 "do init_dut" C-m
 
 tmux send-keys -t:.3 "cdomni" C-m
 tmux send-keys -t:.3 "omnicli" C-m
-tmux send-keys -t:.3 "do init_coord" C-ma
+tmux send-keys -t:.3 "do init_coord" C-m
